@@ -1,0 +1,1 @@
+PASS: production Canon selectors, valid mode combinations, record/FPS/length guards, no PAL/NTSC writes, deferred property changes outside GUI/menu lock, pending/record races, bounded failure notification, format launcher without erase, three LUTs and checksums, preview-only source preservation, squeeze ratios, buffer bounds, corrupt/missing LUT fail closed.

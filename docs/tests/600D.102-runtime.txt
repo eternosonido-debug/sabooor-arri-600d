@@ -1,0 +1,1 @@
+PASS: four frame ratios; font-load failure falls back to native; exclusive native/themed routing and semaphore release; eligibility gates, HDMI toggle, unchanged frames do not repaint, metadata update, redraw invalidation, HOME/REC transitions.

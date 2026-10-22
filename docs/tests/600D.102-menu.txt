@@ -1,0 +1,1 @@
+PASS: canonical 319-node map, all rows render safely, real group/back navigation, 6 HOME cells, playback page, disabled unavailable actions, native nested ancestry, staged cancel/set/conflict, module removal, Original escape and mode gates; truthful Canon readouts, read-only SET rejection and audio-override gate
